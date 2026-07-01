@@ -1,0 +1,26 @@
+# Credentials
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+logs/
+*.log
+
+# Environments
+venv/
+.venv/
+env/
+.env
+
+# Streamlit/IDE configurations
+.streamlit/
+.vscode/
+.idea/

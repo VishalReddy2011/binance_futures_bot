@@ -1,0 +1,7 @@
+python-binance==1.0.19
+streamlit==1.35.0
+click==8.1.7
+questionary==2.0.1
+python-dotenv==1.0.1
+pytest==8.2.2
+pytest-mock==3.14.0
